@@ -1,0 +1,64 @@
+docs:
+  - title: Intro
+    children:
+      - title: "..."
+        # url: /docs/.../
+      - title: "..."
+        # url: /docs/.../
+      - title: "..."
+
+  - title: Getting Started
+    children:
+      - title: "Select"
+        url: /docs/select/
+      - title: "Limit"
+        url: /docs/limit/
+      - title: "Union"
+        url: /docs/union/
+      - title: "Bind"
+        url: /docs/bind/
+      - title: "Federated Queries"
+        url: /docs/federated/
+      - title: "Errors & Problems"
+        url: /docs/errors/
+
+  - title: Authors
+    children:
+      - title: "..."
+        # url: /docs/.../
+      - title: "..."
+        # url: /docs/.../
+      - title: "..."
+        # url: /docs/.../
+      - title: "..."
+        # url: /docs/.../
+      - title: "..."
+        # url: /docs/.../
+
+  - title: Novels
+    children:
+      - title: "..."
+        # url: /docs/.../
+      - title: "..."
+        # url: /docs/.../
+
+  - title: Space
+    children:
+      - title: "..."
+        # url: /docs/.../
+      - title: "..."
+        # url: /docs/.../
+
+  - title: Themes
+    children:
+      - title: "..."
+        # url: /docs/.../
+      - title: "..."
+        # url: /docs/.../
+
+  - title: Change over Time
+    children:
+      - title: "..."
+        # url: /docs/.../
+      - title: "..."
+        # url: /docs/.../
