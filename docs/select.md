@@ -18,4 +18,4 @@ Second Term
 : This is another definition of the second term.
 ```
 
-[Previous](mimotextbase/about/){: .btn} [Next](mimotextbase/about/){: .btn}
+[Previous](/docs/intro){: .btn} [Next](/docs/limit/){: .btn}
