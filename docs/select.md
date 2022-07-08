@@ -18,4 +18,4 @@ Second Term
 : This is another definition of the second term.
 ```
 
-[Previous](./about/){: .btn} [Next](./about/){: .btn}
+[Previous](../about/){: .btn} [Next](../about/){: .btn}
